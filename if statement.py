@@ -18,17 +18,5 @@ else:
     print('Anda Tajir')
 
 
-# Tugas 
 
-nilai = 45 
 
-if nilai >= 82:
-    print('A')
-elif nilai >= 72 and nilai <= 81:
-    print('B')
-elif nilai >= 62 and nilai <= 71:
-    print('C')
-elif nilai >= 52 and nilai <= 62:
-    print('D')
-else:
-    print('E')
